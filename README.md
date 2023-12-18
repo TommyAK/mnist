@@ -12,3 +12,8 @@ Handwritten digits taken from MNIST dataset:
 The results are displayed in the Jupyter Notebook in the form of a confusion matrix image. The true label is plotted on the y-axis and the predicted label is on the x-axis. The title contains the classifier used along with the tested parameter. As shown in the example image below:
 
 ![Screenshot 2023-12-18 152226](https://github.com/TommyAK/mnist/assets/35144580/c13828fe-ad01-445f-8e15-6326dab5740d)
+
+
+# Dataset
+
+The dataset used can be obtained on Kaggle: https://www.kaggle.com/datasets/oddrationale/mnist-in-csv
