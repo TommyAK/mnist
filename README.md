@@ -16,4 +16,4 @@ The results are displayed in the Jupyter Notebook in the form of a confusion mat
 
 # Dataset
 
-The dataset used can be obtained on Kaggle: https://www.kaggle.com/datasets/oddrationale/mnist-in-csv
+The dataset used can be obtained on Kaggle: https://www.kaggle.com/datasets/oddrationale/mnist-in-csv 
