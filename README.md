@@ -1,5 +1,5 @@
 # MNIST
-This small project explored the famous MNIST dataset of handwritten digits. The objective was to experiment with different classification techniques to see how effectively they are at predicting greyscale images. A wide variety of parameters were tested to see how they altered the classification result. 
+This small project explored the famous MNIST dataset of handwritten digits. The objective was to experiment with different classification techniques to see how effective they are at predicting greyscale images. A variety of parameters were tested to see how they altered the classification result. 
 
 
 
